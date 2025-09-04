@@ -8,3 +8,12 @@ Ideal for small to mid-sized organizations, academic labs, or SOC environments, 
 Easy to deploy and extend, this tool is essential for proactive intrusion monitoring and rapid incident response.
 
 
+**How to clone the repository**
+
+git clone https://github.com/Iankulani/network-intrusion-monitoring-tool.git
+
+cd network-intrusion-monitoring-tool
+
+**How to run**
+
+python3 network-intrusion-monitoring-tool.py
