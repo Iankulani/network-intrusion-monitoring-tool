@@ -21,3 +21,9 @@ cd network-intrusion-monitoring-tool
 ```bash
 python3 network-intrusion-monitoring-tool.py
 ```
+
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Iankulani/network-intrusion-monitoring-tool&type=Date)](https://star-history.com/#Iankulani/network-intrusion-monitoring-tool&Date)
+
